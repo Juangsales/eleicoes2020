@@ -13,3 +13,5 @@ Tabela Resultados
 Utilizado o Power Query, importando o arquivo .csv ao Excel. Configurado como Latino 1
 3 Tabelas dinâmicas. 1 Quantidade de votos por candidato/partido, com segmentação pelos municípios, filtrados exibindo somente a os dois primeiros. 2 Soma dos votos de prefeito por município com segmentação filtrada aos prefeitos. 3 Soma dos votos de vereadores por município com segmentação filtrada aos vereadores. Filtradas para os dois primeiros
 Montagem do Dashboard
+
+![Screenshot](img/imgresultado.png)
